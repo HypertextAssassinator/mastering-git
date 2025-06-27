@@ -1,4 +1,5 @@
-## Hey yooh evryone welcome to my Git Guide
+## Welcome to Git
 
-yooh John here
+Yohh John here
+This is coming from dev Adrian
 I am adding this from the feature branch
